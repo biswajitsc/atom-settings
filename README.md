@@ -1,2 +1,2 @@
 # atom-settings
-Contents of the .atom folder to sync user settings across machines.
+Contents of my .atom folder to sync user settings across machines.
