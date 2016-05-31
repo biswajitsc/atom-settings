@@ -6,7 +6,8 @@
       "gl-dark-syntax"
     ]
   editor:
-    fontSize: 13
+    scrollPastEnd: true
+    showIndentGuide: true
   "exception-reporting":
     userId: "0dbe14e2-c8e4-afb6-7b78-0de7453a9ebf"
   linter:
