@@ -1,2 +1,3 @@
 # atom-settings
-Contents of my .atom folder to sync user settings across machines.
+* The Atom editor: http://www.atom.io/
+* Contents of my .atom folder to sync user settings across machines.
