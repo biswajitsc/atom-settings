@@ -94,8 +94,13 @@
   "homepage": "https://github.com/atom-minimap/minimap#readme",
   "_id": "minimap@4.24.7",
   "_shasum": "29430c1bfec468bd8f7b3528ebf77a052d575ff8",
+<<<<<<< HEAD
   "_resolved": "file:../d-11675-25049-upewmn/package.tgz",
   "_from": "../d-11675-25049-upewmn/package.tgz",
+=======
+  "_resolved": "file:../d-11667-5940-x6wuqe/package.tgz",
+  "_from": "../d-11667-5940-x6wuqe/package.tgz",
+>>>>>>> f1046699b5fcfc340d5b3fe9e116cefe98ab1803
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [

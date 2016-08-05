@@ -1,4 +1,6 @@
 "*":
+  "autocomplete-java":
+    javaHome: "/usr/lib/jvm/java-8-oracle/"
   core:
     autoHideMenuBar: true
     themes: [
