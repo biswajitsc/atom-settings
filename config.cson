@@ -14,11 +14,13 @@
   linter:
     alwaysTakeMinimumSpace: false
     errorPanelHeight: 100
+    lintOnFlyInterval: 1000
     showErrorTabFile: false
     showErrorTabProject: false
     statusIconScope: "File"
   "linter-pep8":
-    pep8ExecutablePath: "/home/biswajit_paria/anaconda3/bin/pep8"
+    maxLineLength: 80
+    pep8ExecutablePath: "/home/biswajit/anaconda/bin/pep8"
   minimap: {}
   "seti-ui":
     compactView: true
